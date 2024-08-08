@@ -1,4 +1,4 @@
-package com.sai.SpringBootFirst;
+package com.sai.SpringBootFirst.model;
 
 import org.springframework.stereotype.Component;
 
