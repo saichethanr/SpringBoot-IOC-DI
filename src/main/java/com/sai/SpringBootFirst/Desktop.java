@@ -3,8 +3,8 @@ package com.sai.SpringBootFirst;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Laptop implements Computer{
+public class Desktop implements Computer{
     public void compile(){
-        System.out.println("Laptop Compiling");
+        System.out.println("Desktop Compilted");
     }
 }

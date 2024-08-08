@@ -20,9 +20,6 @@ public class SpringBootFirstApplication {
 		obj.code();
 
 
-		Alien obj2 = obj1.getBean(Alien.class);
-		obj.code();
-
 
         //now what if Alien was depended on some other class
 	}
